@@ -150,8 +150,6 @@ git commit
 
 Команда rm удалит данный файл/папку!
 
-Про менее частые проблемы можно прочитать здесь: https://htmlacademy.ru/blog/boost/frontend/first-aid-git
-
 ## Пример
 
 Пусть у программиста был проект с файлами, всё это он хранил в ветке development:
@@ -183,3 +181,5 @@ git add -u .
 git commit –m "fix library structure"
 git push origin development
 ```
+
+Про менее частые проблемы можно прочитать здесь: https://htmlacademy.ru/blog/boost/frontend/first-aid-git
