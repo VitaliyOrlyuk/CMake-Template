@@ -14,7 +14,7 @@ function(create_project_lib TARGET )
 endfunction()
 
 function(create_executable_project TARGET)
-    file(GLOB TARGET_SRC "*.cpp*")
+    file(GLOB TARGET_SRC "*.c*")
     file(GLOB TARGET_HD "*.h*")
     add_executable(${TARGET} ${TARGET_SRC} ${TARGET_HD})
     

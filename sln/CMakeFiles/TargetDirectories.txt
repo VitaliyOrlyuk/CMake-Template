@@ -1,6 +1,0 @@
-C:/GitHub/CMake-Template/sln/CMakeFiles/ALL_BUILD.dir
-C:/GitHub/CMake-Template/sln/CMakeFiles/ZERO_CHECK.dir
-C:/GitHub/CMake-Template/sln/lib_example/CMakeFiles/LibName.dir
-C:/GitHub/CMake-Template/sln/main/CMakeFiles/Application.dir
-C:/GitHub/CMake-Template/sln/gtest/CMakeFiles/gtest.dir
-C:/GitHub/CMake-Template/sln/test/CMakeFiles/AllTests.dir
