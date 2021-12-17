@@ -1,6 +1,0 @@
-C:/Users/Admin/CMake-Template/sln/CMakeFiles/ALL_BUILD.dir
-C:/Users/Admin/CMake-Template/sln/CMakeFiles/ZERO_CHECK.dir
-C:/Users/Admin/CMake-Template/sln/lib_arithmetic/CMakeFiles/Arithmetic.dir
-C:/Users/Admin/CMake-Template/sln/main/CMakeFiles/main.dir
-C:/Users/Admin/CMake-Template/sln/gtest/CMakeFiles/gtest.dir
-C:/Users/Admin/CMake-Template/sln/test/CMakeFiles/Tests.dir
