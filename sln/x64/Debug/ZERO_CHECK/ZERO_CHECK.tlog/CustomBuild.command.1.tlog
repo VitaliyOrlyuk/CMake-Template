@@ -1,0 +1,10 @@
+^C:\USERS\ADMIN\CMAKE-TEMPLATE\SLN\CMAKEFILES\2B1DAD989F9E17DAD978404E9D18C012\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Admin/CMake-Template -BC:/Users/Admin/CMake-Template/sln --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Admin/CMake-Template/sln/Arithmetic.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
