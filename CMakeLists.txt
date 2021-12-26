@@ -4,6 +4,8 @@ project(Arithmetic)
 
 include(cmake/function.cmake)
 
+add_subdirectory(list)
+add_subdirectory(stackonlist)
 add_subdirectory(lib_arithmetic)
 
 add_subdirectory(main)

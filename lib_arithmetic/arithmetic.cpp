@@ -213,7 +213,7 @@ void Arithmetic::Launch()
 		Calculation();
 	if (status == 4)
 		setlocale(LC_ALL, "Russian");
-	cout << "Результат выичсления выражения:" << endl;
+	cout << "Результат вычисления выражения:" << endl;
 }
 
 vector<Lexema> Arithmetic::Input_Lex()
